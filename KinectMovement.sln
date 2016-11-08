@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{67784B18-976F-1D78-11FA-9A4CBDA94858}") = "KinectMovement", "Assembly-CSharp-firstpass.csproj", "{CDC4232B-F142-34A3-9F0D-8D21E27B6A96}"
 EndProject
+Project("{67784B18-976F-1D78-11FA-9A4CBDA94858}") = "KinectMovement", "Assembly-CSharp.csproj", "{FFD34C60-B482-AFB9-D3CA-AD5907EF463F}"
+EndProject
 Project("{67784B18-976F-1D78-11FA-9A4CBDA94858}") = "KinectMovement", "Assembly-CSharp-Editor-firstpass.csproj", "{C40A1454-8B81-8034-FF61-4674816A3C95}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{CDC4232B-F142-34A3-9F0D-8D21E27B6A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDC4232B-F142-34A3-9F0D-8D21E27B6A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDC4232B-F142-34A3-9F0D-8D21E27B6A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD34C60-B482-AFB9-D3CA-AD5907EF463F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD34C60-B482-AFB9-D3CA-AD5907EF463F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD34C60-B482-AFB9-D3CA-AD5907EF463F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD34C60-B482-AFB9-D3CA-AD5907EF463F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C40A1454-8B81-8034-FF61-4674816A3C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C40A1454-8B81-8034-FF61-4674816A3C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C40A1454-8B81-8034-FF61-4674816A3C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
